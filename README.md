@@ -4,7 +4,7 @@ This is a simple personal CV, created by using Svelte and Vite.
 
 ## Demo
 
-[Insert a link to the live demo of your CV if available]
+https://helenounsaar.github.io
 
 
 ## Technologies Used
